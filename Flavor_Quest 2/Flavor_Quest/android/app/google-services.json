@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "911226746962",
+    "firebase_url": "https://fir-connect-8138b-default-rtdb.firebaseio.com",
+    "project_id": "fir-connect-8138b",
+    "storage_bucket": "fir-connect-8138b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911226746962:android:7fa682eb994a3f7cb4478b",
+        "android_client_info": {
+          "package_name": "com.example.flavor_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNLCuwwSZuQASzpVT4G7HMePI7PC4OIQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
